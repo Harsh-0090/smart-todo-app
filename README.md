@@ -17,11 +17,24 @@ Users can **add, search, and filter tasks** with a clean and responsive UI.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Harsh-0090/smart-todo-app.git
-  2nd cd smart-todo-app
-  3rd npm install
-  4th npm start
-  5th http://localhost:3000
 
+2. Navigate to the project folder:
+   ```bash
+   cd smart-todo-app
+
+3. Install dependencies:
+   ```bash
+   npm install
+   
+4. Start the application:
+   ```bash
+   npm start
+
+5. Open in browser:
+
+   http://localhost:3000
+
+   
   ### 🔹 Explanation:
 - **Step 1 → git clone** : GitHub se project copy karne ke liye  
 - **Step 2 → cd smart-todo-app** : Folder ke andar jao  
